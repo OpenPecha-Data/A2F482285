@@ -1,0 +1,19 @@
+segment_sources:
+  I4589D10B:
+    type: origin_type
+    relation: translation
+    language: en
+  I79713A47:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d65e4d9d4841435d99cecc5a70b992ae:
+    I4589D10B: 30fb8a806e4f461bad88349d9b76edeb
+    I79713A47: 1be375413f784ac9a56f6fe6ce2d4e61
+  5cd8bd6c85cc481d86b47f8fd024db9c:
+    I4589D10B: fb011c3ba88e43c8bf262f68f620d450
+    I79713A47: 75e3d047f16e4062aab2a899175aca32
+  aa36e86b95554054be8adf4e4715f210:
+    I4589D10B: 609a248b03a748c7862edc7f6ea7e73d
+    I79713A47: 0e37aed0b1214932b1af5b460ce30ee4
